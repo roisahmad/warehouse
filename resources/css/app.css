@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropdown-menu {
+    top: 100%;
+    left: 0;
+    margin-top: 0.5rem;
+}
